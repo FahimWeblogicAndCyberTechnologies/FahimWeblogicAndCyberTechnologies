@@ -45,6 +45,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahimweblogicandcybertechnologies&show_icons=true&locale=en&layout=compact" alt="fahimweblogicandcybertechnologies" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahimweblogicandcybertechnologies&show_icons=true&locale=en" alt="fahimweblogicandcybertechnologies" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=fahimweblogicandcybertechnologies&show_icons=true&locale=en" alt="fahimweblogicandcybertechnologies" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahimweblogicandcybertechnologies&" alt="fahimweblogicandcybertechnologies" /></p>
