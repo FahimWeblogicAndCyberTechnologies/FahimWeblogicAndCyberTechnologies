@@ -1,7 +1,7 @@
 ### Hi there 👋
-<a href="https://app.daily.dev/FahimWeblogicAndCyberTechnologies"><img src="https://api.daily.dev/devcards/36532b433adf497b88c010bdfaadd60b.png?r=jbd" width="400" alt="Fahim weblogic's Dev Card"/></a>
 <!--
 **FahimWeblogicAndCyberTechnologies/FahimWeblogicAndCyberTechnologies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://app.daily.dev/FahimWeblogicAndCyberTechnologies"><img src="https://api.daily.dev/devcards/36532b433adf497b88c010bdfaadd60b.png?r=jbd" width="400" alt="Fahim weblogic's Dev Card"/></a>
 
 Here are some ideas to get you started:
 
