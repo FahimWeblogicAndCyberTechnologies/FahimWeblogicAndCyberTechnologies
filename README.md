@@ -2,8 +2,8 @@
 <h3 align="center">A passionate software developer from Uganda</h3>
 
 <center style="display:inline-block"/>
-<img align="right" alt="coding" width="500" height="590" src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif">
-<a href="https://app.daily.dev/FahimWeblogicAndCyberTechnologies"><img src="https://api.daily.dev/devcards/36532b433adf497b88c010bdfaadd60b.png?r=jbd" width="450"  height="590" alt="Fahim weblogic's Dev Card"/>
+<img align="right" alt="coding" width="400" height="400" src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif">
+<a href="https://app.daily.dev/FahimWeblogicAndCyberTechnologies"><img src="https://api.daily.dev/devcards/36532b433adf497b88c010bdfaadd60b.png?r=jbd" width="400"  height="400" alt="Fahim weblogic's Dev Card"/>
 </center>
 
 
