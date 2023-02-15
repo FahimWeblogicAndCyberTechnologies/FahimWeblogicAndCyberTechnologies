@@ -1,5 +1,5 @@
 ### <h1 align="center">Hi 👋, I'm FahimWeblogic And CyberTechnologies</h1>
-<h3 align="center">A passionate software developer from Uganda</h3>
+<h3 align="center">A passionate software developer </h3>
 
 <center style="display:inline-block"/>
 <img align="right" alt="coding" width="400" height="400" src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif">
