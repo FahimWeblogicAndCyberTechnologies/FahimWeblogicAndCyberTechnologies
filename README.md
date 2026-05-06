@@ -57,14 +57,14 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=fahimweblogicandcybertechnologies&show_icons=true&theme=tokyonight&hide_border=true" width="47%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=fahimweblogicandcybertechnologies&show_icons=true&theme=tokyonight" width="47%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fahimweblogicandcybertechnologies&theme=tokyonight&hide_border=true" width="47%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fahimweblogicandcybertechnologies&theme=tokyonight" width="47%"/>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fahimweblogicandcybertechnologies&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fahimweblogicandcybertechnologies&layout=compact&theme=tokyonight"/>
 </div>
 
 ---
@@ -73,13 +73,7 @@
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" 
-          srcset="https://github.com/FahimWeblogicAndCyberTechnologies/github-snake/blob/output/github-contribution-grid-snake-dark.svg?raw=true">
-
-  <img alt="GitHub Contribution Snake" 
-       src="https://github.com/FahimWeblogicAndCyberTechnologies/github-snake/blob/output/github-contribution-grid-snake.svg?raw=true">
-</picture>
+<img src="https://github.com/FahimWeblogicAndCyberTechnologies/github-snake/blob/output/github-contribution-grid-snake.svg?raw=true"/>
 
 </div>
 
