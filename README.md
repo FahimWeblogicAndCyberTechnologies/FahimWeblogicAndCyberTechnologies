@@ -3,7 +3,7 @@
 <!-- ANIMATED HEADER -->
 <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+Tumusiime+Frank;Full-Stack+Developer;Mobile+App+Engineer;Problem+Solver;Always+Learning+New+Tech" />
 
-<h3>💻 Fahim Weblogic & CyberTechnologies</h3>
+<h2>💻 Fahim Weblogic & CyberTechnologies</h2>
 
 <p>🚀 Passionate Software Developer | Builder | Problem Solver</p>
 
@@ -13,8 +13,7 @@
 
 <div align="center">
 
-<!-- GIF + CARD SIDE BY SIDE -->
-<img src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif" width="320" alt="coding"/>
+<img src="https://www.aagnia.com/wp-content/uploads/2021/12/39998-web-development.gif" width="320" />
 
 <br/>
 
@@ -48,24 +47,8 @@
 
 ## ⚡ Tech Stack
 
-### 💻 Languages
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,php" />
-</p>
-
-### 🌐 Web
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,codeigniter" />
-</p>
-
-### 📱 Mobile
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,android" />
-</p>
-
-### 🛠 Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,mysql,linux,dotnet" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,php,html,css,bootstrap,flutter,dart,kotlin,android,git,mysql,linux,dotnet" />
 </p>
 
 ---
@@ -89,7 +72,9 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/fahimweblogicandcybertechnologies/fahimweblogicandcybertechnologies/output/github-contribution-grid-snake.svg"/>
+
+<img src="https://raw.githubusercontent.com/${{ github.repository }}/output/github-contribution-grid-snake.svg"/>
+
 </div>
 
 ---
@@ -119,8 +104,6 @@
 > “Code is not just written, it is engineered.”
 
 ---
-
-## 🚀 Closing Style
 
 <div align="center">
 
