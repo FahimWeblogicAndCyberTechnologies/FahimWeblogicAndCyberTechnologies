@@ -73,7 +73,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/${{ github.repository }}/output/github-contribution-grid-snake.svg"/>
+<img src="https://github.com/FahimWeblogicAndCyberTechnologies/github-snake/blob/output/github-contribution-grid-snake.svg?raw=true"/>
 
 </div>
 
